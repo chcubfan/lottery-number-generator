@@ -1,6 +1,5 @@
 import os
 import random
-import pandas
 from lottery import CashFive
 from art import logo2
 
